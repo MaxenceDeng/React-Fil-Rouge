@@ -1,0 +1,42 @@
+h1, h2, h3 {
+    font-family: Tahoma, sans-serif;
+    padding-top: 30px;
+}
+
+.site {
+    min-height: 100vh;
+}
+
+footer .minSite{
+    height: 40px;
+}
+
+.accueil {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.accueil h3 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.localisation {
+    padding-top: 50px;
+}
+
+.contact {
+    padding-top: 50px;
+}
+
+.erreur404 {
+    padding-top: 100px;
+    text-align: center;
+}
+.erreur404 h1 {
+    font-size: 88px;
+}
+
+.btn {
+    margin: 30px 7px;
+}
